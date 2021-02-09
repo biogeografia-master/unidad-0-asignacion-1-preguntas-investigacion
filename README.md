@@ -39,7 +39,7 @@ Esto lo harás conmigo. Sin embargo, te dejo algunas notas:
 
 - Cuando tengas tu familia asignada, escríbela en el encabezado del repo (sustituye los puntos suspensivos en el lugar correspondiente).
 
-#### Paso 4. "Elige"" una combinación de temas
+#### Paso 4. "Elige" una combinación de temas
 
 Si ya tienes tu familia de plantas y ya miraste el vídeo ["Los datos censales de la parcela permanente de 50-Ha de árboles en la isla Barro Colorado (BCI)"](https://www.youtube.com/watch?v=Hm6yO_V6NUY&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=3), entonces ejecuta este paso.
 
@@ -77,7 +77,7 @@ A, B y C son temas troncales en ecología numérica que no se pueden obviar, só
 - ABCD
 - ABCE
 
-Antes de elegir, te recomiendo que profundices sobre qué diferencia a ecología espacial de ordenación. Consulta los vídeos que comienzan por `to` y `ee` en [esta lista de reproducción](https://www.youtube.com/watch?v=v1EX8OzAyBw&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ).
+Antes de elegir, te recomiendo que profundices sobre qué diferencia a ecología espacial de ordenación. Consulta los vídeos que comienzan por `to_` y `ee_` en [esta lista de reproducción](https://www.youtube.com/watch?v=v1EX8OzAyBw&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ).
 
 Tras elegir, escribe tu opción en el encabezado del repo (sustituye los puntos suspensivos en el lugar correspondiente).
 
