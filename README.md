@@ -1,39 +1,87 @@
-# Mi/s pregunta/s de investigación es/son la/s siguiente/s:
+# Mis preguntas de investigación
 
-* ...
+(sustituye los puntos suspensivos por tus respuestas; instrucciones abajo).
 
-* ...
 
-* ...
+Mi familia de plantas asignada es: ...
 
-# Base común
+Elegí la siguiente combinación de temas/preguntas: ...
 
-Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s debe...
 
-* ... poderse responder con un flujo de trabajo definible y temático, basado en el análisis exploratorio de datos, la estadística y la ecología numérica.
-* ... ser concisa, cero divagación.
-* ... tener una respuesta alcanzable, nada de preguntas extraordinarias o imposibles de responder en este momento o en esta materia.
+## Instrucciones
 
-# Batería de preguntas
+**Por José Ramón Martínez Batlle, el tali**
 
-Si te resulta complicado este primer paso, apóyate en esta batería de preguntas. ADAPTA, no hagas copy/paste.
+### Mensaje clave
 
-Aunque dependerá mucho del grupo de seres vivos que elijas, la base común de biodiversidad y distribución de especies estará presente en tu manuscrito. La mayor parte de las preguntas pertenece a uno de esos grupos.
+Trabajarás con los datos censales de la parcela permanente (50-Ha) de BCI del Smithsonian Tropical Research Institute (STRI) y con preguntas previamente formuladas por mí.
 
-No se trata de una lista comprehensiva. Las preguntas incluidas aquí son sólo un conjunto de algunas posibles que el tali tiene en su cabeza. Trae las tuyas también, y las discutimos.
+### Pasos
 
-Bueno, la batería de preguntas finalmente:
+#### Paso 1. Mira este [vídeo](https://www.youtube.com/watch?v=bN54RGtxFeM)
 
-* ¿Existe asociación estadística entre la composición de comunidades de X y el/la Y?
+El vídeo se titula "Barro Colorado: Un vistazo a la ciencia y los científicos que trabajan en la isla de Barro Colorado". Aquí el STRI te explica qué es BCI, su historia, el 50-Ha plot y cómo se realizan estudios de fauna.
 
-* ¿Se correlaciona la diversidad alpha de X con Y?
+#### Paso 2. Mira [este otro vídeo](https://www.youtube.com/watch?v=Hm6yO_V6NUY&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=3)
 
-* ¿Explica el/la Y la diversidad beta de X?
+Lo titulé "Datos censales de la parcela permanente de 50-Ha de árboles en la isla Barro Colorado (BCI)", donde explico:
 
-* ¿Está repartida homogéneamente la diversidad alpha de X en el territorio dominicano? ¿Hay variabilidad por municipios, provincias o regiones? ¿Existen clusters de riqueza?
+- Características básicas de los datos.
+- Cuáles preguntas podrás seleccionar y responder.
+- Un resumen de las técnicas disponibles y qué preguntas responde cada una.
 
-* ¿Hay indicios de que los registros de ocurrencia de X de los que dispongo están sesgados? ¿Sesgados en qué aspecto? ¿Espacial? ¿Por subgrupo?
+#### Paso 3. Identifica tu familia de plantas
 
-X se refiere al grupo elegido.
+Esto lo harás conmigo. Sin embargo, te dejo algunas notas:
 
-Y podría ser muchas cosas. Por ejemplo, podría ser "elevación", "pendiente", "relieve" (que es más global), "posición geomorfológica", "unidad geológica", "intervención antrópica", "pérdida de bosque", "tipo de bosque", "tipo de cobertura", "distancia a accesos", y si sigo por ahí me voy en una y no paro. No es esa una lista exhaustiva de variables, hay muchas más posibles.
+- Cuando tengas familia asignada, investiga un poco sobre ella. Profundizarás a medida que avances en la redacción del manuscrito.
+
+- Mayor riqueza de especies no significa mayor complejidad, y viceversa. Traducción: una familia con gran riqueza de especies no necesariamente es más difícil de trabajar.
+
+- Cuando tengas tu familia asignada, escríbela en el encabezado del repo (sustituye los puntos suspensivos en el lugar correspondiente).
+
+#### Paso 4. "Elige"" una combinación de temas
+
+Si ya tienes tu familia de plantas y ya miraste el vídeo ["Los datos censales de la parcela permanente de 50-Ha de árboles en la isla Barro Colorado (BCI)"](https://www.youtube.com/watch?v=Hm6yO_V6NUY&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ&index=3), entonces ejecuta este paso.
+
+Las preguntas se clasifican en cinco temas: medición de asociación, agrupamiento, ordenación, ecología espacial, diversidad. Detallo las preguntas que incluye cada tema a continuación:
+
+A. Medición de asociación:
+
+- ¿Se detectan especies asociadas dentro de mi familia seleccionada?
+- ¿Existe asociación entre variables ambientales/atributos? ¿Cuáles variables?
+
+B. Agrupamiento (_cluster analysis_):
+
+- Los cuadros (o quadrats) de 1 hectárea, ¿se organizan en grupos discontinuos según la composición de las especies de mi familia seleccionada?
+- Si existe algún patrón, ¿es consistente con alguna variable ambiental/atributo?
+- ¿Hay especies indicadoras o con preferencia por determinadas condiciones ambientales/atributos?
+
+C. Diversidad:
+
+- Según los análisis de estimación de riqueza, ¿está suficientemente representada mi familia? Consideremos como buena representación un 85%
+- ¿Existe asociación de la diversidad alpha con variables ambientales/atributos? ¿Con cuáles?
+- ¿Existe contribución local o por alguna especie a la diversidad beta?
+
+D. Ordenación (_ordination analysis_):
+
+- En un espacio bidimensional, ¿existen tendencias apreciables de ordenación de las especies de mi familia seleccionada?
+- Si existen tendencias de ordenación, ¿se asocian éstas con variables ambientales/atributos?
+
+E. Ecología espacial:
+
+- ¿Alguna(s) especies de mi familia presenta(n) patrón aglomerado? ¿Cuál(es)? ¿Se asocia con alguna variable?
+- ¿Predicen bien la ocurrencia de dicha(s) especie(s) los modelos de distribución de especies (SDM)?
+
+A, B y C son temas troncales en ecología numérica que no se pueden obviar, sólo podrás "elegir"" entre combinarlos con ordenación o con ecología espacial. Así, las opciones son éstas:
+
+- ABCD
+- ABCE
+
+Antes de elegir, te recomiendo que profundices sobre qué diferencia a ecología espacial de ordenación. Consulta los vídeos que comienzan por `to` y `ee` en [esta lista de reproducción](https://www.youtube.com/watch?v=v1EX8OzAyBw&list=PLDcT2n8UzsCRDqjqSeqHI1wsiNOqpYmsJ).
+
+Tras elegir, escribe tu opción en el encabezado del repo (sustituye los puntos suspensivos en el lugar correspondiente).
+
+Existe un conjunto de técnicas denominadas "análisis exploratorio de datos" (AED) que son prescriptivas, y que verás en la lista de reproducción. No responden preguntas, más bien, ayudan a limpiar los datos.
+
+**No olvides hacer commit>push al finalizar.**
