@@ -1,8 +1,5 @@
 # Mis preguntas de investigación
 
-(sustituye los puntos suspensivos por tus respuestas; instrucciones abajo).
-
-
 Mi familia de plantas asignada es: ...
 
 Elegí la siguiente combinación de temas/preguntas: ...
@@ -13,6 +10,8 @@ Elegí la siguiente combinación de temas/preguntas: ...
 **Por José Ramón Martínez Batlle, el tali**
 
 ### Mensaje clave
+
+Desde GitHub, en el archivo README.md, sustituye los puntos suspensivos por tus respuestas; instrucciones abajo. No olvides hacer *commit* al finalizar.
 
 Trabajarás con los datos censales de la parcela permanente (50-Ha) de BCI del Smithsonian Tropical Research Institute (STRI) y con preguntas previamente formuladas por mí.
 
@@ -84,4 +83,4 @@ Tras elegir, escribe tu opción en el encabezado del repo (sustituye los puntos 
 
 Existe un conjunto de técnicas denominadas "análisis exploratorio de datos" (AED) que son prescriptivas, y que verás en la lista de reproducción. No responden preguntas, más bien, ayudan a limpiar los datos.
 
-**No olvides hacer commit>push al finalizar.**
+**No olvides hacer *commit* al finalizar.**
